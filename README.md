@@ -5,4 +5,4 @@ It is a desktop-based system that uses webcam to capture a person images and com
 
 The IndividualWork folder contains the seperate files. Each file was contributed by the project members, they have their name in the file name or in commit message.
 
-The CompleteProjectCode contains the complete code file (contains the merged code).
+The AttendanceClass.py file contains the complete merged code.
